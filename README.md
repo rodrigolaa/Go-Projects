@@ -1,7 +1,12 @@
 <h1 align="center">
-📄<br>README GO Projects
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2F2021%2F10%2Fgolang.png&imgrefurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fwhat-is-go-programming-language%2F&tbnid=Ps5jom-Bp8-UIM&vet=12ahUKEwiPw8m5gL77AhVZlZUCHafrBzcQMygKegUIARCgAQ..i&docid=LVCVBLstsSyzVM&w=1200&h=628&q=go&ved=2ahUKEwiPw8m5gL77AhVZlZUCHafrBzcQMygKegUIARCgAQ" alt="Girl in a jacket" width="500" height="600">
+📄<br>README
 </h1>
+
+## Practice Golang!
+
+![GO](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2F2021%2F10%2Fgolang.png&imgrefurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fwhat-is-go-programming-language%2F&tbnid=Ps5jom-Bp8-UIM&vet=12ahUKEwiPw8m5gL77AhVZlZUCHafrBzcQMygKegUIARCgAQ..i&docid=LVCVBLstsSyzVM&w=1200&h=628&q=go&ved=2ahUKEwiPw8m5gL77AhVZlZUCHafrBzcQMygKegUIARCgAQ)
+
+
 
 ## Description
 
@@ -15,7 +20,7 @@ This project has the porpuse to create an real api project with Fast Api that al
 
 
 
-## Go Projects 
+## Info: 
 
 [![Perfil](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/rodrigolaa)
 
