@@ -4,11 +4,8 @@
 
 ## Practice Golang!
 <h1 align="center">
-    <br> <img src="go_img.png" style="horizontal-align:middle;margin:50px 0px">
+    <br> <img src="go_img.png">
 </h1>
-
-
-![GO](go_img.png)
 
 ## Description
 
