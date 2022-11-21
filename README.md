@@ -4,7 +4,7 @@
 
 ## Practice Golang!
 
-![GO](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2F2021%2F10%2Fgolang.png&imgrefurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fwhat-is-go-programming-language%2F&tbnid=Ps5jom-Bp8-UIM&vet=12ahUKEwiPw8m5gL77AhVZlZUCHafrBzcQMygKegUIARCgAQ..i&docid=LVCVBLstsSyzVM&w=1200&h=628&q=go&ved=2ahUKEwiPw8m5gL77AhVZlZUCHafrBzcQMygKegUIARCgAQ)
+![GO](go_img.png)
 
 
 
