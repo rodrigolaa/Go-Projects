@@ -9,13 +9,12 @@
 
 ## Description
 
-This project has the porpuse to create an real api project with Fast Api that allow us to understand and put in practice:
+This project has the porpuse to build hands-on activities with Golang language programing  to understand the basic concepts of this language, such as:
 
-- authentication principles with JWT, 
-- Develop and Config Database in Postgress SQL,
-- Log in and Signup methods, 
-- CRUD methods with Order's event
-- Set up Automatic API Documentation with Swagger
+- Project Structure; 
+- Functions, ForLoop, Types and Variable;
+- Testing, 
+- Struct;
 
 
 
