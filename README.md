@@ -15,6 +15,8 @@ This project has the porpuse to build hands-on activities with Golang language p
 - Functions, ForLoop, Types and Variable;
 - Testing, 
 - Struct;
+- Maps;
+- Interface
 
 
 
