@@ -1,0 +1,62 @@
+Iniciando Script Stockout Report: 2022-12-15
+Google Sheets extraido com sucesso: 0.300 minutes
+Finished QUERY_REPORT_01: 1.422 minutes
+Brands got in QUERY_REPORT_01: ('éxito', 'pao de azucar')
+Finished QUERY_REPORT_01: 18.914 minutes
+Brands got in QUERY_REPORT_01: ('éxito', 'pao de azucar')
+Finished QUERY_REPORT_01: 19.805 minutes
+Brands got in QUERY_REPORT_01: ('éxito', 'pao de azucar')
+Finished QUERY_SUMMARY_REPORT: 24.853 minutes
+Brands got in QUERY_REPORT_02: ('éxito', 'pao de azucar', 'iplace')
+Google Sheets extraido com sucesso: 36.307 minutes
+Failed to Build Email to éxito: 36.872 minutes
+Failed to Build Email to pao de azucar: 36.872 minutes
+Failed to Build Email to iplace: 36.872 minutes
+Finished QUERY_WORST_STORES: 40.088 minutes
+Brands got in QUERY_REPORT_02: ('iplace', 'pao de azucar', 'éxito')
+Finished Building Email body to éxito: 40.812 minutes
+Sent Email to Brand éxito: 40.848 minutes
+Sent Email to Alies: ('david.pedroza@rappi.com', 'rodrigo.lacerda@rappi.com', 'valentina.giraldo@rappi.com', 'bruno.queiroz@rappi.com'): 40.848 minutes
+Finished Building Email body to pao de azucar: 40.848 minutes
+Sent Email to Brand pao de azucar: 40.877 minutes
+Sent Email to Alies: ('david.pedroza@rappi.com', 'rodrigo.lacerda@rappi.com', 'valentina.giraldo@rappi.com', 'bruno.queiroz@rappi.com'): 40.877 minutes
+Finished Building Email body to iplace: 40.877 minutes
+Sent Email to Brand iplace: 40.891 minutes
+Sent Email to Alies: ('david.pedroza@rappi.com', 'rodrigo.lacerda@rappi.com', 'valentina.giraldo@rappi.com', 'bruno.queiroz@rappi.com'): 40.891 minutes
+Finished Building Email body to éxito: 43.215 minutes
+Sent Email to Brand éxito: 43.248 minutes
+Sent Email to Alies: ('david.pedroza@rappi.com', 'rodrigo.lacerda@rappi.com', 'valentina.giraldo@rappi.com', 'bruno.queiroz@rappi.com'): 43.248 minutes
+Finished Building Email body to pao de azucar: 43.248 minutes
+Sent Email to Brand pao de azucar: 43.274 minutes
+Sent Email to Alies: ('david.pedroza@rappi.com', 'rodrigo.lacerda@rappi.com', 'valentina.giraldo@rappi.com', 'bruno.queiroz@rappi.com'): 43.274 minutes
+Finished Building Email body to iplace: 43.274 minutes
+Sent Email to Brand iplace: 43.287 minutes
+Sent Email to Alies: ('david.pedroza@rappi.com', 'rodrigo.lacerda@rappi.com', 'valentina.giraldo@rappi.com', 'bruno.queiroz@rappi.com'): 43.287 minutes
+Finished Building Email body to éxito: 50.046 minutes
+Sent Email to Brand éxito: 50.078 minutes
+Sent Email to Alies: ('david.pedroza@rappi.com', 'rodrigo.lacerda@rappi.com', 'valentina.giraldo@rappi.com', 'bruno.queiroz@rappi.com'): 50.078 minutes
+Finished Building Email body to pao de azucar: 50.078 minutes
+Sent Email to Brand pao de azucar: 50.108 minutes
+Sent Email to Alies: ('david.pedroza@rappi.com', 'rodrigo.lacerda@rappi.com', 'valentina.giraldo@rappi.com', 'bruno.queiroz@rappi.com'): 50.108 minutes
+Finished Building Email body to iplace: 50.109 minutes
+Sent Email to Brand iplace: 50.123 minutes
+Sent Email to Alies: ('david.pedroza@rappi.com', 'rodrigo.lacerda@rappi.com', 'valentina.giraldo@rappi.com', 'bruno.queiroz@rappi.com'): 50.123 minutes
+Finished Building Email body to éxito: 51.810 minutes
+Sent Email to Brand éxito: 51.855 minutes
+Sent Email to Alies: ('david.pedroza@rappi.com', 'rodrigo.lacerda@rappi.com', 'valentina.giraldo@rappi.com', 'bruno.queiroz@rappi.com'): 51.855 minutes
+Finished Building Email body to pao de azucar: 51.856 minutes
+Sent Email to Brand pao de azucar: 51.908 minutes
+Sent Email to Alies: ('david.pedroza@rappi.com', 'rodrigo.lacerda@rappi.com', 'valentina.giraldo@rappi.com', 'bruno.queiroz@rappi.com'): 51.908 minutes
+Finished Building Email body to iplace: 51.909 minutes
+Sent Email to Brand iplace: 51.925 minutes
+Sent Email to Alies: ('david.pedroza@rappi.com', 'rodrigo.lacerda@rappi.com', 'valentina.giraldo@rappi.com', 'bruno.queiroz@rappi.com'): 51.925 minutes
+Finished Building Email body to éxito: 52.491 minutes
+Sent Email to Brand éxito: 52.568 minutes
+Sent Email to Alies: ['david.pedroza@rappi.com', 'rodrigo.lacerda@rappi.com', 'valentina.giraldo@rappi.com', 'bruno.queiroz@rappi.com']: 52.568 minutes
+Finished Building Email body to pao de azucar: 52.568 minutes
+Sent Email to Brand pao de azucar: 52.617 minutes
+Sent Email to Alies: ['david.pedroza@rappi.com', 'rodrigo.lacerda@rappi.com', 'valentina.giraldo@rappi.com', 'bruno.queiroz@rappi.com']: 52.617 minutes
+Finished Building Email body to iplace: 52.617 minutes
+Sent Email to Brand iplace: 52.631 minutes
+Sent Email to Alies: ['david.pedroza@rappi.com', 'rodrigo.lacerda@rappi.com', 'valentina.giraldo@rappi.com', 'bruno.queiroz@rappi.com']: 52.631 minutes
+Failed to Sent Email to Managers: 53.107 minutes

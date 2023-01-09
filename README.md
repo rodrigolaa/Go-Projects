@@ -16,8 +16,9 @@ This project has the porpuse to build hands-on activities with Golang language p
 - Testing, 
 - Struct;
 - Maps;
-- Interface
-
+- Interface;
+- Go Routines;
+- Channels
 
 
 ## Info: 
